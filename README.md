@@ -57,7 +57,7 @@
 ## Projects
 
 <img align="left" width="250" height="150" src="https://github.com/damoncaliber/Uber-2024-EDA/blob/main/images/uber_project_image..png"> **[Uber 2024 Exploratory Data Analysis](https://github.com/damoncaliber/Uber-2024-EDA)**
-</p> In this project, I performed an exploratory data analysis on Uber’s 2024 dataset, cleaning and preparing the data using Python, Numpy and Pandas. You then visualized key trends and patterns in bookings, cancellations, and ride distributions using Matplotlib and Seaborn to gain actionable insights. .
+</p> In this project, I performed an exploratory data analysis on Uber’s 2024 dataset, cleaning and preparing the data using Python, Numpy and Pandas. Then visualized key trends and patterns in bookings, cancellations, and ride distributions using Matplotlib and Seaborn to gain actionable insights. .
 </p>
 <br><br><br>
 
