@@ -61,6 +61,11 @@
 </p>
 <br><br><br>
 
+<img align="left" width="250" height="150" src="https://github.com/damoncaliber/BMW-2010-2024-Sales/blob/main/Project_Images/BMW%20project%20image.png"> **[BMW Sales Analysis(2010-2024)](https://github.com/damoncaliber/BMW-2010-2024-Sales)**
+</p> Analyzed BMW global sales data from 2010–2024 using SQL for cleaning and querying, Excel for preparation, and Power BI for interactive dashboards, revealing year-over-year trends, regional market growth, and top-performing models to guide strategic planning and sales forecasting.
+</p>
+<br><br><br>
+
 
 
 
