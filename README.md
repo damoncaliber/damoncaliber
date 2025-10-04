@@ -54,19 +54,16 @@
 </p>
 <br><br>
 
-## Projects
+# Featured Projects
+
+## Data Analysis Projects
 
 <img align="left" width="250" height="150" src="https://github.com/damoncaliber/Uber-2024-EDA/blob/main/images/uber_project_image..png"> **[Uber 2024 Exploratory Data Analysis](https://github.com/damoncaliber/Uber-2024-EDA)**
-</p> In this project, I performed an exploratory data analysis on Uber’s 2024 dataset, cleaning and preparing the data using Python, Numpy and Pandas. Then visualized key trends and patterns in bookings, cancellations, and ride distributions using Matplotlib and Seaborn to gain actionable insights. .
+</p> This project involved performing exploratory data analysis on Uber’s 2024 dataset to identify key operational patterns. Data was cleaned and structured using Python, NumPy, and Pandas, then visualized with Matplotlib and Seaborn. The analysis revealed trends in bookings, cancellations, and ride distributions, offering insights to optimize driver allocation and improve service efficiency.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/damoncaliber/BMW-2010-2024-Sales/blob/main/Project_Images/BMW%20project%20image.png"> **[BMW Sales Analysis(2010-2024)](https://github.com/damoncaliber/BMW-2010-2024-Sales)**
-</p> Analyzed BMW global sales data from 2010–2024 using SQL for cleaning and querying, Excel for preparation, and Power BI for interactive dashboards, revealing year-over-year trends, regional market growth, and top-performing models to guide strategic planning and sales forecasting.
-</p>
-<br><br><br>
-
-<img align="left" width="250" height="150" src=""> **[Global GDP(2020-2025) Analysis]()**
+<img align="left" width="250" height="150" src="https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/GDP%20image.png"> **[Global GDP(2020-2025) Analysis]()**
 </p> This project explores worldwide economic growth trends, ranking shifts among countries, and GDP distribution across continents. Using Python, the project applied Pandas and NumPy for data cleaning and transformation, and Matplotlib with Seaborn for data visualization. Missing values were treated using continent-based mean imputation to maintain data consistency. The analysis highlights global recovery trends, regional GDP contributions, and key shifts in country rankings over the five-year period.
 </p>
 <br><br><br>
