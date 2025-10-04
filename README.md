@@ -66,6 +66,10 @@
 </p>
 <br><br><br>
 
+<img align="left" width="250" height="150" src=""> **[Global GDP(2020-2025) Analysis]()**
+</p> This project explores worldwide economic growth trends, ranking shifts among countries, and GDP distribution across continents. Using Python, the project applied Pandas and NumPy for data cleaning and transformation, and Matplotlib with Seaborn for data visualization. Missing values were treated using continent-based mean imputation to maintain data consistency. The analysis highlights global recovery trends, regional GDP contributions, and key shifts in country rankings over the five-year period.
+</p>
+<br><br><br>
 
 
 
