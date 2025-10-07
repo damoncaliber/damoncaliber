@@ -25,7 +25,7 @@
 
 * I am pursuing a Bachelor's degree in Mathematical Sciences, majoring in Mathematics & Computer Sciences at the University of South Africa and I am currently in my penultimate year of study.
 
-* When I'm not analyzing data, I read, exercise, and play billiards.
+
   
 <br><br><br>
 
