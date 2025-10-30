@@ -11,7 +11,10 @@
 
 <p align="center">
   <em>
- As a data analyst with expertise in Spreadsheets, SQL, Python, R, and Power BI,  I enjoy turning raw data into actionable insights that drive meaningful decisions and measurable impact. Strong communication, problem-solving, and critical-thinking skills help me collaborate effectively and approach challenges with focus and accountability. This portfolio presents the data analysis and data science projects I’ve completed to deepen my skills and share practical, real-world results..
+ Passionate about uncovering insights and solving problems through data, I work with tools such as Spreadsheets, SQL, Python, R, and Power BI to transform raw information into meaningful outcomes that support smart decision-making.
+With strong communication, problem-solving, and critical-thinking abilities, I approach challenges with focus, curiosity, and accountability.
+
+This portfolio showcases a collection of data analysis, engineering, and science projects developed to deepen my expertise and demonstrate practical, real-world impact.
 <br><br><br>
 
 </p>
@@ -20,7 +23,7 @@
 
 
   
-* My Data Analysis toolkit includes Excel, SQL, Python, Tableau, Power BI and R Programming Language.
+* My technical toolkit includes Excel, SQL, Python, Tableau, Power BI.
   
 
 * I am pursuing a Bachelor's degree in Mathematical Sciences, majoring in Mathematics & Computer Sciences at the University of South Africa and I am currently in my penultimate year of study.
@@ -48,7 +51,7 @@
 
   * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Customer Segmentation, RFM Analysis, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, Time Series Analysis.
 
-  * **Technical Skills**: Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau.
+  * **Technical Skills**: Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau.
 
   * **Soft Skills**: Critical and Analytical Thinking skills, Problem Solving skills, Verbal and Written Communication, Attention to Detail, Fast Learner, Independent and Self Motivated. 
 </p>
