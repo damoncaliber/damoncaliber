@@ -59,7 +59,7 @@ This portfolio showcases a collection of data analysis, engineering, and science
 
 # Featured Projects
 
-<img align="left" width="250" height="150" src="https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/GDP%20image.png"> **[Global GDP(2020-2025) Analysis](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis/blob/main/Raw_data/GDP%20image.png"> **[Global GDP Trends and Forecasting 2020-2025](https://github.com/damoncaliber/Global-GDP-2020-2025-Analysis)**
 </p> This project explores worldwide economic growth trends, ranking shifts among countries, and GDP distribution across continents. Using Python, the project applied Pandas and NumPy for data cleaning and transformation, and Matplotlib with Seaborn for data visualization. Missing values were treated using continent-based mean imputation to maintain data consistency. The analysis highlights global recovery trends, regional GDP contributions, and key shifts in country rankings over the five-year period.
 </p>
 <br><br><br>
